@@ -1,0 +1,27 @@
+body
+{
+    background-image: url(../img/background1.jpeg);
+    background-repeat: repeat;
+}
+
+.resume
+{
+    color: #2F4F4F;
+}
+
+.myimage
+{
+    width: fit-content;
+    margin-left:40rem;
+    border: 2px solid red;
+    border-bottom: 5px solid red;
+    padding: auto;
+}
+
+.skills
+{
+    padding: 50px;
+    margin:2px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #DC143C;
+}
